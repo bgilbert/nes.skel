@@ -1,4 +1,4 @@
-# "Hello world" for the NES
+# Hello World for the NES
 
 This is a simple skeleton project for the Nintendo Entertainment System.
 
@@ -30,7 +30,7 @@ make
 
 ## Notes
 
-- The code addresses in the first column of the `.lst` file are $7ff0 bytes
+- The code addresses in the first column of the .lst file are $7ff0 bytes
   too low.
 
 - 64tass emits `warning: memory bank exceeded` at build time.  This warning
